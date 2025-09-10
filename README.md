@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anesa Ibrahimi</h1>
-<h3 align="center">A dedicated Artificial Intelligence Graduate Student with a strong passion for continuous learning and problem-solving. Eager to expand my expertise and contribute to meaningful projects in the dynamic, ever-evolving field of AI.</h3>
+<h3 align="center">A dedicated Artificial Intelligence Graduate with a strong passion for continuous learning and problem-solving. Eager to expand my expertise and contribute to meaningful projects in the dynamic, ever-evolving field of AI.</h3>
 
 - 📫 How to reach me **anesaibrahimi26@gmail.com**
 
